@@ -16,6 +16,6 @@ Then, customize your hyper parameters in `config.json`.
 
 Finally, `bash run_main.sh`.
 
-This is a multi-purpose piece code, and can be used for training, testing and decoding your own dataset.
+This is a multi-purpose piece code, and can be used for training, testing or decoding your own dataset.
 
  
