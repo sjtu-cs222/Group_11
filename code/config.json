@@ -1,0 +1,10 @@
+{
+  "norm_gaz_emb": false,
+  "use_attn": true,
+  "use_w2c": false,
+  "shared_attn": true,
+  "n_head": 5,
+  "save_dir": "data/MSRA/attn_shared_mul/",
+  "combination": 1,
+  "_comment": "combination- 0: concat, 1: mul"
+}
